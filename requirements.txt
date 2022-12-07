@@ -3,7 +3,7 @@ atomicwrites==1.3.0
 attrs==19.3.0
 boto3==1.6.21
 botocore==1.9.21
-certifi==2017.11.5
+certifi==2022.12.7
 cffi==1.13.1
 chardet==3.0.4
 Click==7.0
